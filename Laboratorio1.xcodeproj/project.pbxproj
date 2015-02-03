@@ -81,7 +81,6 @@
 		8D399ED01A77FEF100FFB89A = {
 			isa = PBXGroup;
 			children = (
-				8D399F041A78063000FFB89A /* simpons */,
 				8D399EDB1A77FEF100FFB89A /* Laboratorio1 */,
 				8D399EF51A77FEF100FFB89A /* Laboratorio1Tests */,
 				8D399EDA1A77FEF100FFB89A /* Products */,
@@ -100,6 +99,7 @@
 		8D399EDB1A77FEF100FFB89A /* Laboratorio1 */ = {
 			isa = PBXGroup;
 			children = (
+				8D399F041A78063000FFB89A /* simpons */,
 				8D399EE01A77FEF100FFB89A /* AppDelegate.h */,
 				8D399EE11A77FEF100FFB89A /* AppDelegate.m */,
 				8D399EE31A77FEF100FFB89A /* MainViewController.h */,
@@ -153,7 +153,7 @@
 				8D399F0A1A78063000FFB89A /* Simpsons.png */,
 			);
 			name = simpons;
-			path = ../../../../Downloads/simpons;
+			path = ../../../../../Downloads/simpons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
